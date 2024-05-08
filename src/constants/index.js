@@ -111,16 +111,16 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        title: "Business Intelligence Consultant (Tablea)",
+        company_name: "Citi",
+        icon: citi,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "October 2021 - September 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Tableau Dashboard Design and Automation: Designed and automated dashboards for Talent Acquisition,
+            "Developed and maintained a comprehensive data governance framework, including a detailed data dictionary.",
+            " Led the development of a sourcing reporting pipeline, leveraging ETL techniques, extracting data from Workday systems, connecting to a database using an API, and enriching the data to enhance strategic sourcing reports.",
+            "Created a logistic regression model using Excel Solver to forecast hiring performance across job boards with 85% accuracy",
         ],
     },
     {
