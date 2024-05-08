@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          I have worked and contracted with many large companies <br /> and picked up many skills along the way
+          I have worked and contracted with many large companies including Citi, DLL, and PwC <br /> 
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
@@ -33,7 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium text-center sm:text-xl'>
-          Led multiple projects to success over the years. <br /> Curious about the impact?
+          I have led many projects to completion and also assisted project managers in completing deliverables to success. <br /> Curious about the impact?
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
@@ -48,7 +48,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
       <p className='font-medium sm:text-xl text-center'>
-        Need a project done or looking for a dev? <br/> I'm just a few keystrokes away
+        Need a project completed or looking for a dev? <br/> I'm just a few keystrokes away
       </p>
 
       <Link to='/contact' className='neo-brutalism-white neo-btn'>
