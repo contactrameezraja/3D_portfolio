@@ -22,8 +22,14 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Analyst | Developer | Storyteller based in London, specializing in driving insights 
-          using data and technologies.
+          Analyst | Developer | Storyteller based in London!
+          
+          I'm a data enthusiast with a decade of experience in data engineering, analysis, and visualization.
+          I recently completed a dual MBA/MS Analytics program at the University of Massachusetts and am now based in London. 
+          Eager to contribute to the data and tech community.
+          
+          In my spare time, I'm passionate about coding and have built several Python programs, including classic games like Snake
+          and Rock Paper Scissors. I've also developed portfolio websites using front-end tools such as React.js and Node.js.
         </p>
       </div>
 
