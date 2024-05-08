@@ -117,10 +117,10 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "October 2021 - September 2023",
         points: [
-            "Tableau Dashboard Design and Automation: Designed and automated dashboards for Talent Acquisition,
-            "Developed and maintained a comprehensive data governance framework, including a detailed data dictionary.",
-            " Led the development of a sourcing reporting pipeline, leveraging ETL techniques, extracting data from Workday systems, connecting to a database using an API, and enriching the data to enhance strategic sourcing reports.",
-            "Created a logistic regression model using Excel Solver to forecast hiring performance across job boards with 85% accuracy",
+            "Designed and automated Tableau dashboards for Talent Acquisition,"
+            "Developed and maintained a comprehensive data governance framework.",
+            "Led the development of a sourcing reporting pipeline, leveraging ETL techniques.",
+            "Created a logistic regression model using Excel Solver to forecast hiring performance.",
         ],
     },
     {
@@ -130,10 +130,10 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "September 2019 - July 2021",
         points: [
-            "Implemented a legal reporting cadence, introducing weekly performance reports, along with comprehensive monthly, quarterly, and annual review scorecards.",
-            "Collaborated with PwC contractors and cross-functional teams during Brexit to rectify legal agreements and manage critical Salesforce system data.",
-            "Conducted comprehensive analysis and documentation of source-to-output data mappings for critical regulatory reporting.",
-            "Led cross-functional workshops and the creation of UAT (User Acceptance Testing) documents and test scripts.",
+            "Implemented a legal reporting cadence, introducing weekly performance reports.",
+            "Collaborated with PwC contractors and cross-functional teams during Brexit to rectify legal agreements.",
+            "Conducted comprehensive analysis and documentation of source-to-output data mappings.",
+            "Led cross-functional workshops and the creation of UAT (User Acceptance Testing) documents.",
         ],
     },
     {
@@ -143,10 +143,10 @@ export const experiences = [
         iconBg: "#b7e4c7",
         date: "August 2018 - August 2019",
         points: [
-            "Leveraged Power BI to develop insightful dashboards and reports, providing stakeholders with actionable insights and enhancing decision-making processes.",
-            "Developed APIs with Python, optimizing big data pipelines, architectures, and datasets, enhancing data processing capabilities and enabling better data-driven decisions.",
-            "As a Power BI Superuser provided guidance and mentorship to team members on Power BI usage and best practices, fostering a collaborative and knowledge-sharing environment.",
-            "Automated processes to provide early feedback and improve operational efficiency, streamlining workflows and reducing manual efforts.",
+            "Leveraged Power BI to develop insightful dashboards and reports, providing stakeholders with insights.",
+            "Developed APIs with Python, optimizing big data pipelines, architectures, and datasets.",
+            "As a Power BI Superuser provided guidance and mentorship to team members on Power BI usage and best practices.",
+            "Automated processes to provide early feedback and improve operational efficiency.",
         ],
     },
     {
