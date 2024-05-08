@@ -24,8 +24,8 @@ const About = () => {
         <p>
           
           I'm a data enthusiast with a decade of experience in data engineering, analysis, and visualization.
-          I recently completed a dual MBA/MS Analytics program at the University of Massachusetts and am now based in London. 
-          Eager to contribute to the data and tech community.
+          I recently completed a dual MBA/MS Analytics program at the University of Massachusetts and am now based in London 
+          eager to contribute to the data and tech community.
           
           In my spare time, I'm passionate about coding and have built several Python programs, including classic games like Snake
           and Rock Paper Scissors. I've also developed portfolio websites using front-end tools such as React.js and Node.js.
