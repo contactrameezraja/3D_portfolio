@@ -117,7 +117,7 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "October 2021 - September 2023",
         points: [
-            "Designed and automated Tableau dashboards for Talent Acquisition,"
+            "Designed and automated Tableau dashboards for Talent Acquisition,",
             "Developed and maintained a comprehensive data governance framework.",
             "Led the development of a sourcing reporting pipeline, leveraging ETL techniques.",
             "Created a logistic regression model using Excel Solver to forecast hiring performance.",
