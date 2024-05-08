@@ -112,7 +112,7 @@ export const skills = [
 export const experiences = [
     {
         title: "Business Intelligence Consultant (Tablea)",
-        company_name: "Citi",
+        company_name: "Citi - London, UK",
         icon: citi,
         iconBg: "#accbe1",
         date: "October 2021 - September 2023",
@@ -125,7 +125,7 @@ export const experiences = [
     },
     {
         title: "Technical Business Analyst",
-        company_name: "Citi",
+        company_name: "Citi - Belfast, Northern Ireland",
         icon: citi,
         iconBg: "#fbc3bc",
         date: "September 2019 - July 2021",
@@ -137,16 +137,16 @@ export const experiences = [
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
+        title: "Power BI Reporting Analyst",
+        company_name: "Citi Private Bank - New York City, USA",
+        icon: citi,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "August 2018 - August 2019",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Leveraged Power BI to develop insightful dashboards and reports, providing stakeholders with actionable insights and enhancing decision-making processes.",
+            "Developed APIs with Python, optimizing big data pipelines, architectures, and datasets, enhancing data processing capabilities and enabling better data-driven decisions.",
+            "As a Power BI Superuser provided guidance and mentorship to team members on Power BI usage and best practices, fostering a collaborative and knowledge-sharing environment.",
+            "Automated processes to provide early feedback and improve operational efficiency, streamlining workflows and reducing manual efforts.",
         ],
     },
     {
